@@ -6,4 +6,4 @@
 
 How to run project:
 - install requirements.txt
-- to open jupyter notebook just type in terminal <em>.venv/scripts/activate</em>
+- to open jupyter notebook just type in terminal <em>.venv/scripts/activate</em> and then <em>jupyter notebook</em>
